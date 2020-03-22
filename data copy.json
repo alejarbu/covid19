@@ -1,0 +1,3335 @@
+{
+    "data": [
+        [
+            [
+                "",
+                "PRUEBA DE CORONAVIRUS *"
+            ],
+            [
+                "Positivas",
+                "54"
+            ],
+            [
+                "Negativas",
+                "1676"
+            ]
+        ],
+        [
+            [
+                "ID de caso",
+                "Fecha de diagnóstico",
+                "Ciudad de ubicación",
+                "Atención",
+                "Edad",
+                "Sexo",
+                "Tipo*",
+                "País de procedencia"
+            ],
+            [
+                "1",
+                "06/03/2020",
+                "Bogotá",
+                "casa",
+                "10 a 19",
+                "F",
+                "Importado",
+                "Italia"
+            ],
+            [
+                "2",
+                "09/03/2020",
+                "Buga",
+                "hospital",
+                "30 a 39",
+                "M",
+                "Importado",
+                "España"
+            ],
+            [
+                "3",
+                "09/03/2020",
+                "Medellín",
+                "casa",
+                "50 a 59",
+                "F",
+                "Importado",
+                "España"
+            ],
+            [
+                "4",
+                "11/03/2020",
+                "Medellín",
+                "casa",
+                "50 a 59",
+                "M",
+                "Relacionado",
+                "Colombia"
+            ],
+            [
+                "5",
+                "11/03/2020",
+                "Medellín",
+                "casa",
+                "20 a 29",
+                "M",
+                "Relacionado",
+                "Colombia"
+            ],
+            [
+                "6",
+                "11/03/2020",
+                "Itagüí",
+                "casa",
+                "20 a 29",
+                "F",
+                "Relacionado",
+                "Colombia"
+            ],
+            [
+                "7",
+                "11/03/2020",
+                "Cartagena",
+                "hospital",
+                "80 a 89",
+                "F",
+                "Importado",
+                "Estados Unidos"
+            ],
+            [
+                "8",
+                "11/03/2020",
+                "Bogotá",
+                "casa",
+                "20 a 29",
+                "F",
+                "Importado",
+                "España"
+            ],
+            [
+                "9",
+                "11/03/2020",
+                "Bogotá",
+                "casa",
+                "20 a 29",
+                "F",
+                "Importado",
+                "España-Italia"
+            ],
+            [
+                "10",
+                "12/03/2020",
+                "Bogotá",
+                "casa",
+                "30 a 39",
+                "F",
+                "Importado",
+                "España"
+            ],
+            [
+                "11",
+                "12/03/2020",
+                "Bogotá",
+                "casa",
+                "40 a 49",
+                "F",
+                "Importado",
+                "España"
+            ],
+            [
+                "12",
+                "12/03/2020",
+                "Neiva",
+                "hospital",
+                "70 a 79",
+                "F",
+                "Importado",
+                "Italia"
+            ],
+            [
+                "13",
+                "12/03/2020",
+                "Neiva",
+                "hospital",
+                "60 a 69",
+                "F",
+                "Relacionado",
+                "Colombia"
+            ],
+            [
+                "14",
+                "13/03/2020",
+                "Palmira",
+                "casa",
+                "40 a 49",
+                "M",
+                "Importado",
+                "España"
+            ],
+            [
+                "15",
+                "13/03/2020",
+                "Villavicencio",
+                "casa",
+                "30 a 39",
+                "F",
+                "Importado",
+                "España"
+            ],
+            [
+                "16",
+                "13/03/2020",
+                "Bogotá",
+                "hospital",
+                "60 a 69",
+                "F",
+                "Importado",
+                "Italia-Ucrania-España"
+            ],
+            [
+                "17",
+                "14/03/2020",
+                "Bogotá",
+                "casa",
+                "70 a 79",
+                "F",
+                "Importado",
+                "España"
+            ],
+            [
+                "18",
+                "14/03/2020",
+                "Bogotá",
+                "casa",
+                "50 a 59",
+                "M",
+                "Importado",
+                "España"
+            ],
+            [
+                "19",
+                "14/03/2020",
+                "Bogotá",
+                "casa",
+                "50 a 59",
+                "F",
+                "Relacionado",
+                "Colombia"
+            ],
+            [
+                "20",
+                "14/03/2020",
+                "Medellín",
+                "casa",
+                "20 a 29",
+                "F",
+                "Relacionado",
+                "Colombia"
+            ],
+            [
+                "21",
+                "14/03/2020",
+                "Medellín",
+                "casa",
+                "20 a 29",
+                "M",
+                "Relacionado",
+                "Colombia"
+            ],
+            [
+                "22",
+                "14/03/2020",
+                "Rionegro",
+                "casa",
+                "30 a 39",
+                "M",
+                "Importado",
+                "Estados Unidos"
+            ],
+            [
+                "23",
+                "14/03/2020",
+                "Bogotá",
+                "casa",
+                "20 a 29",
+                "M",
+                "Relacionado",
+                "Colombia"
+            ],
+            [
+                "24",
+                "14/03/2020",
+                "Bogotá",
+                "casa",
+                "10 a 19",
+                "F",
+                "Importado",
+                "España"
+            ],
+            [
+                "25",
+                "15/03/2020",
+                "Cali",
+                "casa",
+                "40 a 49",
+                "M",
+                "Importado",
+                "España"
+            ],
+            [
+                "26",
+                "15/03/2020",
+                "Cartagena",
+                "casa",
+                "30 a 39",
+                "F",
+                "Relacionado",
+                "Colombia"
+            ],
+            [
+                "27",
+                "15/03/2020",
+                "Cartagena",
+                "casa",
+                "30 a 39",
+                "F",
+                "Relacionado",
+                "Colombia"
+            ],
+            [
+                "28",
+                "15/03/2020",
+                "Dosquebradas",
+                "casa",
+                "20 a 29",
+                "M",
+                "Importado",
+                "Estados Unidos"
+            ],
+            [
+                "29",
+                "15/03/2020",
+                "Neiva",
+                "casa",
+                "50 a 59",
+                "F",
+                "Relacionado",
+                "Colombia"
+            ],
+            [
+                "30",
+                "15/03/2020",
+                "Cúcuta",
+                "casa",
+                "40 a 49",
+                "F",
+                "Importado",
+                "España"
+            ],
+            [
+                "31",
+                "15/03/2020",
+                "Manizales",
+                "casa",
+                "60 a 69",
+                "M",
+                "Importado",
+                "Estados Unidos"
+            ],
+            [
+                "32",
+                "15/03/2020",
+                "Medellín",
+                "casa",
+                "50 a 59",
+                "M",
+                "Importado",
+                "España-Croacia-Bosnia"
+            ],
+            [
+                "33",
+                "15/03/2020",
+                "Bogotá",
+                "casa",
+                "50 a 59",
+                "M",
+                "Importado",
+                "España"
+            ],
+            [
+                "34",
+                "15/03/2020",
+                "Bogotá",
+                "casa",
+                "20 a 29",
+                "F",
+                "Importado",
+                "España"
+            ],
+            [
+                "35",
+                "15/03/2020",
+                "Bogotá",
+                "casa",
+                "50 a 59",
+                "M",
+                "Importado",
+                "España"
+            ],
+            [
+                "36",
+                "15/03/2020",
+                "Bogotá",
+                "casa",
+                "70 a 79",
+                "M",
+                "Importado",
+                "Estados Unidos"
+            ],
+            [
+                "37",
+                "15/03/2020",
+                "Bogotá",
+                "casa",
+                "40 a 49",
+                "F",
+                "Relacionado",
+                "Colombia"
+            ],
+            [
+                "38",
+                "15/03/2020",
+                "Bogotá",
+                "casa",
+                "20 a 29",
+                "M",
+                "Importado",
+                "España"
+            ],
+            [
+                "39",
+                "15/03/2020",
+                "Bogotá",
+                "casa",
+                "50 a 59",
+                "M",
+                "Importado",
+                "España"
+            ],
+            [
+                "40",
+                "15/03/2020",
+                "Bogotá",
+                "casa",
+                "20 a 29",
+                "F",
+                "Importado",
+                "España"
+            ],
+            [
+                "41",
+                "15/03/2020",
+                "Neiva",
+                "casa",
+                "70 a 79",
+                "M",
+                "Relacionado",
+                "Colombia"
+            ],
+            [
+                "42",
+                "15/03/2020",
+                "Neiva",
+                "casa",
+                "50 a 59",
+                "F",
+                "Relacionado",
+                "Colombia"
+            ],
+            [
+                "43",
+                "15/03/2020",
+                "Neiva",
+                "casa",
+                "70 a 79",
+                "M",
+                "Relacionado",
+                "Colombia"
+            ],
+            [
+                "44",
+                "15/03/2020",
+                "Neiva",
+                "casa",
+                "20 a 29",
+                "F",
+                "Relacionado",
+                "Colombia"
+            ],
+            [
+                "45",
+                "15/03/2020",
+                "Subachoque",
+                "casa",
+                "20 a 29",
+                "M",
+                "Importado",
+                "España"
+            ],
+            [
+                "46",
+                "16/03/2020",
+                "Bogotá",
+                "casa",
+                "40 a 49",
+                "F",
+                "Relacionado",
+                "Colombia"
+            ],
+            [
+                "47",
+                "16/03/2020",
+                "Bogotá",
+                "casa",
+                "30 a 39",
+                "M",
+                "Relacionado",
+                "Colombia"
+            ],
+            [
+                "48",
+                "16/03/2020",
+                "Bogotá",
+                "casa",
+                "30 a 39",
+                "M",
+                "Relacionado",
+                "Colombia"
+            ],
+            [
+                "49",
+                "16/03/2020",
+                "Bogotá",
+                "casa",
+                "40 a 49",
+                "F",
+                "Importado",
+                "España"
+            ],
+            [
+                "50",
+                "16/03/2020",
+                "Bogotá",
+                "casa",
+                "60 a 69",
+                "F",
+                "Importado",
+                "España"
+            ],
+            [
+                "51",
+                "16/03/2020",
+                "Soacha",
+                "casa",
+                "20 a 29",
+                "M",
+                "Importado",
+                "Ecuador"
+            ],
+            [
+                "52",
+                "16/03/2020",
+                "Bogotá",
+                "casa",
+                "20 a 29",
+                "M",
+                "Importado",
+                "España"
+            ],
+            [
+                "53",
+                "16/03/2020",
+                "Bogotá",
+                "casa",
+                "60 a 69",
+                "M",
+                "Importado",
+                "España"
+            ],
+            [
+                "54",
+                "16/03/2020",
+                "Bogotá",
+                "casa",
+                "40 a 49",
+                "F",
+                "Importado",
+                "España"
+            ],
+            [
+                "55",
+                "16/03/2020",
+                "Bogotá",
+                "casa",
+                "50 a 59",
+                "F",
+                "Relacionado",
+                "Colombia"
+            ],
+            [
+                "56",
+                "16/03/2020",
+                "Bogotá",
+                "casa",
+                "30 a 39",
+                "M",
+                "Importado",
+                "España"
+            ],
+            [
+                "57",
+                "16/03/2020",
+                "Bogotá",
+                "hospital",
+                "30 a 39",
+                "M",
+                "Relacionado",
+                "Colombia"
+            ],
+            [
+                "58",
+                "17/03/2020",
+                "Cartagena",
+                "casa",
+                "20 a 29",
+                "M",
+                "Relacionado",
+                "Colombia"
+            ],
+            [
+                "59",
+                "17/03/2020",
+                "Barranquilla",
+                "casa",
+                "20 a 29",
+                "M",
+                "Importado",
+                "España"
+            ],
+            [
+                "60",
+                "17/03/2020",
+                "Bucaramanga",
+                "casa",
+                "20 a 29",
+                "M",
+                "Importado",
+                "España"
+            ],
+            [
+                "61",
+                "17/03/2020",
+                "Barranquilla",
+                "casa",
+                "20 a 29",
+                "M",
+                "Importado",
+                "España"
+            ],
+            [
+                "62",
+                "17/03/2020",
+                "Cali",
+                "casa",
+                "30 a 39",
+                "M",
+                "Importado",
+                "Italia"
+            ],
+            [
+                "63",
+                "17/03/2020",
+                "Cali",
+                "casa",
+                "20 a 29",
+                "F",
+                "Importado",
+                "Francia"
+            ],
+            [
+                "64",
+                "17/03/2020",
+                "Bogotá",
+                "casa",
+                "30 a 39",
+                "M",
+                "Importado",
+                "España"
+            ],
+            [
+                "65",
+                "17/03/2020",
+                "Bogotá",
+                "casa",
+                "60 a 69",
+                "M",
+                "Relacionado",
+                "Colombia"
+            ],
+            [
+                "66",
+                "17/03/2020",
+                "Bogotá",
+                "casa",
+                "40 a 49",
+                "F",
+                "Importado",
+                "España"
+            ],
+            [
+                "67",
+                "17/03/2020",
+                "Bogotá",
+                "casa",
+                "20 a 29",
+                "M",
+                "Importado",
+                "España"
+            ],
+            [
+                "68",
+                "17/03/2020",
+                "Bogotá",
+                "hospital",
+                "70 a 79",
+                "M",
+                "Importado",
+                "España"
+            ],
+            [
+                "69",
+                "17/03/2020",
+                "Bogotá",
+                "casa",
+                "20 a 29",
+                "F",
+                "Importado",
+                "Estados Unidos"
+            ],
+            [
+                "70",
+                "17/03/2020",
+                "Bogotá",
+                "casa",
+                "30 a 39",
+                "F",
+                "Importado",
+                "Turquía-Grecia"
+            ],
+            [
+                "71",
+                "17/03/2020",
+                "Cúcuta",
+                "casa",
+                "50 a 59",
+                "M",
+                "Relacionado",
+                "Colombia"
+            ],
+            [
+                "72",
+                "17/03/2020",
+                "Cúcuta",
+                "casa",
+                "20 a 29",
+                "F",
+                "Relacionado",
+                "Colombia"
+            ],
+            [
+                "73",
+                "17/03/2020",
+                "Cartagena",
+                "casa",
+                "50 a 59",
+                "F",
+                "Relacionado",
+                "Colombia"
+            ],
+            [
+                "74",
+                "17/03/2020",
+                "Bogotá",
+                "casa",
+                "10 a 19",
+                "M",
+                "Relacionado",
+                "Colombia"
+            ],
+            [
+                "75",
+                "17/03/2020",
+                "Bogotá",
+                "casa",
+                "40 a 49",
+                "F",
+                "Relacionado",
+                "Colombia"
+            ],
+            [
+                "76",
+                "18/03/2020",
+                "Armenia",
+                "casa",
+                "40 a 49",
+                "F",
+                "Importado",
+                "Italia"
+            ],
+            [
+                "77",
+                "18/03/2020",
+                "Armenia",
+                "casa",
+                "10 a 19",
+                "M",
+                "Importado",
+                "España"
+            ],
+            [
+                "78",
+                "18/03/2020",
+                "Palmira",
+                "casa",
+                "30 a 39",
+                "F",
+                "Relacionado",
+                "Colombia"
+            ],
+            [
+                "79",
+                "18/03/2020",
+                "Palmira",
+                "casa",
+                "0 a 9",
+                "M",
+                "Relacionado",
+                "Colombia"
+            ],
+            [
+                "80",
+                "18/03/2020",
+                "Palmira",
+                "casa",
+                "50 a 59",
+                "F",
+                "Relacionado",
+                "Colombia"
+            ],
+            [
+                "81",
+                "18/03/2020",
+                "Cali",
+                "casa",
+                "40 a 49",
+                "F",
+                "Importado",
+                "Estados Unidos"
+            ],
+            [
+                "82",
+                "18/03/2020",
+                "Cali",
+                "casa",
+                "50 a 59",
+                "M",
+                "Importado",
+                "España"
+            ],
+            [
+                "83",
+                "18/03/2020",
+                "Cali",
+                "casa",
+                "50 a 59",
+                "M",
+                "Importado",
+                "Estados Unidos"
+            ],
+            [
+                "84",
+                "18/03/2020",
+                "Cali",
+                "casa",
+                "50 a 59",
+                "M",
+                "Importado",
+                "Ecuador"
+            ],
+            [
+                "85",
+                "18/03/2020",
+                "Cali",
+                "casa",
+                "40 a 49",
+                "F",
+                "Relacionado",
+                "Colombia"
+            ],
+            [
+                "86",
+                "18/03/2020",
+                "Pereira",
+                "hospital",
+                "20 a 29",
+                "M",
+                "Importado",
+                "Francia"
+            ],
+            [
+                "87",
+                "18/03/2020",
+                "Cajicá",
+                "casa",
+                "40 a 49",
+                "M",
+                "Importado",
+                "España"
+            ],
+            [
+                "88",
+                "18/03/2020",
+                "Tolima",
+                "casa",
+                "30 a 39",
+                "M",
+                "Relacionado",
+                "Colombia"
+            ],
+            [
+                "89",
+                "18/03/2020",
+                "Bucaramanga",
+                "Casa",
+                "30 a 39",
+                "F",
+                "Importado",
+                "España"
+            ],
+            [
+                "90",
+                "18/03/2020",
+                "Neiva",
+                "casa",
+                "50 a 59",
+                "F",
+                "Relacionado",
+                "Colombia"
+            ],
+            [
+                "91",
+                "18/03/2020",
+                "Cajicá",
+                "casa",
+                "30 a 39",
+                "M",
+                "Importado",
+                "España - Italia"
+            ],
+            [
+                "92",
+                "18/03/2020",
+                "Bogotá",
+                "casa",
+                "50 a 59",
+                "M",
+                "Relacionado",
+                "Colombia"
+            ],
+            [
+                "93",
+                "18/03/2020",
+                "Bogotá",
+                "casa",
+                "20 a 29",
+                "F",
+                "Importado",
+                "España"
+            ],
+            [
+                "94",
+                "18/03/2020",
+                "Bogotá",
+                "casa",
+                "50 a 59",
+                "M",
+                "Relacionado",
+                "Colombia"
+            ],
+            [
+                "95",
+                "18/03/2020",
+                "Bogotá",
+                "hospital",
+                "60 a 69",
+                "M",
+                "Importado",
+                "Turquía"
+            ],
+            [
+                "96",
+                "18/03/2020",
+                "Bogotá",
+                "casa",
+                "30 a 39",
+                "F",
+                "Importado",
+                "Estados Unidos"
+            ],
+            [
+                "97",
+                "18/03/2020",
+                "Cartagena",
+                "casa",
+                "20 a 29",
+                "M",
+                "Importado",
+                "Estados Unidos"
+            ],
+            [
+                "98",
+                "18/03/2020",
+                "Cartagena",
+                "casa",
+                "20 a 29",
+                "M",
+                "Importado",
+                "España"
+            ],
+            [
+                "99",
+                "18/03/2020",
+                "Ibagué",
+                "casa",
+                "10 a 19",
+                "M",
+                "Relacionado",
+                "Colombia"
+            ],
+            [
+                "100",
+                "18/03/2020",
+                "Pereira",
+                "casa",
+                "20 a 29",
+                "M",
+                "Importado",
+                "España"
+            ],
+            [
+                "101",
+                "18/03/2020",
+                "Dosquebradas",
+                "casa",
+                "10 a 19",
+                "M",
+                "Importado",
+                "España"
+            ],
+            [
+                "102",
+                "18/03/2020",
+                "Pereira",
+                "casa",
+                "70 a 79",
+                "M",
+                "Importado",
+                "España"
+            ],
+            [
+                "103",
+                "19/03/2020",
+                "Cartagena",
+                "casa",
+                "20 a 29",
+                "F",
+                "Importado",
+                "España"
+            ],
+            [
+                "104",
+                "19/03/2020",
+                "Barranquilla",
+                "casa",
+                "40 a 49",
+                "F",
+                "Importado",
+                "España"
+            ],
+            [
+                "105",
+                "19/03/2020",
+                "Palmira",
+                "casa",
+                "20 a 29",
+                "F",
+                "Importado",
+                "España"
+            ],
+            [
+                "106",
+                "19/03/2020",
+                "Medellín",
+                "casa",
+                "40 a 49",
+                "M",
+                "Importado",
+                "España"
+            ],
+            [
+                "107",
+                "19/03/2020",
+                "Medellín",
+                "casa",
+                "50 a 59",
+                "M",
+                "Importado",
+                "España"
+            ],
+            [
+                "108",
+                "19/03/2020",
+                "Medellín",
+                "casa",
+                "50 a 59",
+                "F",
+                "Importado",
+                "España"
+            ],
+            [
+                "109",
+                "19/03/2020",
+                "Bogotá",
+                "casa",
+                "50 a 59",
+                "M",
+                "Importado",
+                "España"
+            ],
+            [
+                "110",
+                "19/03/2020",
+                "Bogotá",
+                "casa",
+                "60 a  69",
+                "F",
+                "Importado",
+                "Estados Unidos"
+            ],
+            [
+                "111",
+                "19/03/2020",
+                "Bogotá",
+                "casa",
+                "60 a 69",
+                "M",
+                "Relacionado",
+                "Colombia"
+            ],
+            [
+                "112",
+                "19/03/2020",
+                "Bogotá",
+                "casa",
+                "30 a 39",
+                "M",
+                "Importado",
+                "España"
+            ],
+            [
+                "113",
+                "19/03/2020",
+                "Bogotá",
+                "casa",
+                "30 a 39",
+                "M",
+                "Importado",
+                "Italia - España"
+            ],
+            [
+                "114",
+                "19/03/2020",
+                "Bogotá",
+                "casa",
+                "40 a 49",
+                "M",
+                "Importado",
+                "Estados Unidos"
+            ],
+            [
+                "115",
+                "19/03/2020",
+                "Bogotá",
+                "casa",
+                "20 a 29",
+                "M",
+                "Importado",
+                "Ecuador"
+            ],
+            [
+                "116",
+                "19/03/2020",
+                "Bogotá",
+                "casa",
+                "40 a 49",
+                "F",
+                "En estudio",
+                "Colombia"
+            ],
+            [
+                "117",
+                "19/03/2020",
+                "Cúcuta",
+                "casa",
+                "20 a 29",
+                "M",
+                "Importado",
+                "España"
+            ],
+            [
+                "118",
+                "19/03/2020",
+                "Cúcuta",
+                "casa",
+                "50 a 59",
+                "M",
+                "Importado",
+                "Colombia"
+            ],
+            [
+                "119",
+                "19/03/2020",
+                "Cúcuta",
+                "casa",
+                "20 a 29",
+                "M",
+                "Relacionado",
+                "Colombia"
+            ],
+            [
+                "120",
+                "19/03/2020",
+                "Armenia",
+                "casa",
+                "20 a 29",
+                "F",
+                "Relacionado",
+                "Colombia"
+            ],
+            [
+                "121",
+                "19/03/2020",
+                "Popayán",
+                "casa",
+                "60 a 69",
+                "M",
+                "Relacionado",
+                "Colombia"
+            ],
+            [
+                "122",
+                "19/03/2020",
+                "Popayán",
+                "casa",
+                "30 a 39",
+                "F",
+                "Importado",
+                "España"
+            ],
+            [
+                "123",
+                "19/03/2020",
+                "Viterbo",
+                "casa",
+                "30 a 39",
+                "F",
+                "Importado",
+                "España"
+            ],
+            [
+                "124",
+                "19/03/2020",
+                "Neiva",
+                "casa",
+                "70 a 79",
+                "F",
+                "Relacionado",
+                "Colombia"
+            ],
+            [
+                "125",
+                "19/03/2020",
+                "Cartagena",
+                "casa",
+                "40 a 49",
+                "M",
+                "Importado",
+                "España"
+            ],
+            [
+                "126",
+                "19/03/2020",
+                "Barranquilla",
+                "casa",
+                "50 a 59",
+                "F",
+                "Importado",
+                "Estados Unidos"
+            ],
+            [
+                "127",
+                "19/03/2020",
+                "Barranquilla",
+                "casa",
+                "30 a 39",
+                "F",
+                "Relacionado",
+                "Colombia"
+            ],
+            [
+                "128",
+                "19/03/2020",
+                "Soacha",
+                "casa",
+                "50 a 59",
+                "M",
+                "En estudio",
+                "Colombia"
+            ],
+            [
+                "129",
+                "20/03/2020",
+                "Pereira",
+                "casa",
+                "20 a 29",
+                "F",
+                "Importado",
+                "España"
+            ],
+            [
+                "130",
+                "20/03/2020",
+                "Anapoima",
+                "casa",
+                "50 a 59",
+                "M",
+                "Importado",
+                "Estados Unidos"
+            ],
+            [
+                "131",
+                "20/03/2020",
+                "Medellín",
+                "casa",
+                "20 a 29",
+                "F",
+                "Importado",
+                "España - Italia"
+            ],
+            [
+                "132",
+                "20/03/2020",
+                "Cali",
+                "casa",
+                "30 a 39",
+                "M",
+                "Relacionado",
+                "Colombia"
+            ],
+            [
+                "133",
+                "20/03/2020",
+                "Rionegro",
+                "hospital",
+                "50 a 59",
+                "M",
+                "Relacionado",
+                "Colombia"
+            ],
+            [
+                "134",
+                "20/03/2020",
+                "Medellín",
+                "casa",
+                "20 a 29",
+                "M",
+                "Relacionado",
+                "Colombia"
+            ],
+            [
+                "135",
+                "20/03/2020",
+                "Medellín",
+                "casa",
+                "40 a 49",
+                "F",
+                "Importado",
+                "Alemania"
+            ],
+            [
+                "136",
+                "20/03/2020",
+                "Medellín",
+                "casa",
+                "30 a 39",
+                "M",
+                "Relacionado",
+                "Colombia"
+            ],
+            [
+                "137",
+                "20/03/2020",
+                "Medellín",
+                "casa",
+                "50 a 59",
+                "M",
+                "Importado",
+                "España-Croacia"
+            ],
+            [
+                "138",
+                "20/03/2020",
+                "Bogotá",
+                "casa",
+                "50 a 59",
+                "M",
+                "Importado",
+                "Ecuador"
+            ],
+            [
+                "139",
+                "20/03/2020",
+                "Bogotá",
+                "casa",
+                "30 a 39",
+                "M",
+                "Importado",
+                "España-India"
+            ],
+            [
+                "140",
+                "20/03/2020",
+                "Bogotá",
+                "casa",
+                "30 a 39",
+                "M",
+                "Importado",
+                "Brasil"
+            ],
+            [
+                "141",
+                "20/03/2020",
+                "Medellín",
+                "casa",
+                "60 a 69",
+                "F",
+                "Relacionado",
+                "Colombia"
+            ],
+            [
+                "142",
+                "20/03/2020",
+                "Medellín",
+                "casa",
+                "30 a 39",
+                "F",
+                "Importado",
+                "Italia- Jamaica- Panamá"
+            ],
+            [
+                "143",
+                "20/03/2020",
+                "Envigado",
+                "casa",
+                "40 a 49",
+                "M",
+                "Importado",
+                "España-Italia"
+            ],
+            [
+                "144",
+                "20/03/2020",
+                "Medellín",
+                "casa",
+                "40 a 49",
+                "M",
+                "Relacionado",
+                "Colombia"
+            ],
+            [
+                "145",
+                "20/03/2020",
+                "Medellín",
+                "casa",
+                "10 a 19",
+                "F",
+                "Relacionado",
+                "Colombia"
+            ],
+            [
+                "146",
+                "20/03/2020",
+                "Bogotá",
+                "casa",
+                "30 a 39",
+                "F",
+                "Relacionado",
+                "Colombia"
+            ],
+            [
+                "147",
+                "20/03/2020",
+                "Bogotá",
+                "casa",
+                "20 a 29",
+                "F",
+                "Relacionado",
+                "Colombia"
+            ],
+            [
+                "148",
+                "20/03/2020",
+                "Bogotá",
+                "casa",
+                "30 a 39",
+                "M",
+                "Relacionado",
+                "Colombia"
+            ],
+            [
+                "149",
+                "20/03/2020",
+                "Bogotá",
+                "casa",
+                "30 a 39",
+                "M",
+                "Importado",
+                "Alemania-Estambul"
+            ],
+            [
+                "150",
+                "20/03/2020",
+                "Bogotá",
+                "casa",
+                "20 a 29",
+                "F",
+                "Importado",
+                "Italia-Ucrania-Turquía"
+            ],
+            [
+                "151",
+                "20/03/2020",
+                "Bogotá",
+                "casa",
+                "40 a 49",
+                "M",
+                "Importado",
+                "Ecuador"
+            ],
+            [
+                "152",
+                "20/03/2020",
+                "Bogotá",
+                "casa",
+                "60 a 69",
+                "M",
+                "Importado",
+                "Estados Unidos"
+            ],
+            [
+                "153",
+                "20/03/2020",
+                "Bogotá",
+                "casa",
+                "50 a 59",
+                "F",
+                "En estudio",
+                ""
+            ],
+            [
+                "154",
+                "20/03/2020",
+                "Bogotá",
+                "casa",
+                "40 a 49",
+                "M",
+                "Importado",
+                "Jamaica-Panamá-Islas Caimán"
+            ],
+            [
+                "155",
+                "20/03/2020",
+                "Santa Marta",
+                "casa",
+                "20 a 29",
+                "M",
+                "Importado",
+                "España"
+            ],
+            [
+                "156",
+                "20/03/2020",
+                "Chía",
+                "casa",
+                "20 a 29",
+                "F",
+                "Importado",
+                "España"
+            ],
+            [
+                "157",
+                "20/03/2020",
+                "Santa Marta",
+                "hospital",
+                "80 a 89",
+                "M",
+                "En estudio",
+                ""
+            ],
+            [
+                "158",
+                "20/03/2020",
+                "Madrid",
+                "casa",
+                "30 a 39",
+                "M",
+                "Relacionado",
+                "Colombia"
+            ],
+            [
+                "159",
+                "20/03/2020",
+                "Bogotá",
+                "casa",
+                "30 a 39",
+                "M",
+                "Importado",
+                "Estados Unidos"
+            ],
+            [
+                "160",
+                "20/03/2020",
+                "Bogotá",
+                "casa",
+                "40 a 49",
+                "F",
+                "Importado",
+                "Estados Unidos"
+            ],
+            [
+                "161",
+                "20/03/2020",
+                "Bogotá",
+                "casa",
+                "20 a 29",
+                "F",
+                "Importado",
+                "Estados Unidos"
+            ],
+            [
+                "162",
+                "20/03/2020",
+                "Bogotá",
+                "casa",
+                "20 a 29",
+                "M",
+                "Importado",
+                "Estados Unidos-México"
+            ],
+            [
+                "163",
+                "20/03/2020",
+                "Bogotá",
+                "casa",
+                "20 a 29",
+                "M",
+                "Relacionado",
+                "Colombia"
+            ],
+            [
+                "164",
+                "20/03/2020",
+                "Bogotá",
+                "casa",
+                "60 a 69",
+                "F",
+                "Relacionado",
+                "Colombia"
+            ],
+            [
+                "165",
+                "20/03/2020",
+                "Bogotá",
+                "casa",
+                "30 a 39",
+                "F",
+                "Relacionado",
+                "Colombia"
+            ],
+            [
+                "166",
+                "20/03/2020",
+                "Bogotá",
+                "casa",
+                "40 a 49",
+                "F",
+                "Relacionado",
+                "Colombia"
+            ],
+            [
+                "167",
+                "20/03/2020",
+                "Bogotá",
+                "casa",
+                "40 a 49",
+                "F",
+                "Relacionado",
+                "Colombia"
+            ],
+            [
+                "168",
+                "20/03/2020",
+                "Bogotá",
+                "casa",
+                "20 a 29",
+                "F",
+                "Importado",
+                "España"
+            ],
+            [
+                "169",
+                "20/03/2020",
+                "Bogotá",
+                "casa",
+                "40 a 49",
+                "F",
+                "Relacionado",
+                "Colombia"
+            ],
+            [
+                "170",
+                "20/03/2020",
+                "Bogotá",
+                "casa",
+                "40 a 49",
+                "F",
+                "Importado",
+                "Grecia"
+            ],
+            [
+                "171",
+                "20/03/2020",
+                "Bogotá",
+                "casa",
+                "20 a 29",
+                "F",
+                "Relacionado",
+                "Colombia"
+            ],
+            [
+                "172",
+                "20/03/2020",
+                "Bogotá",
+                "casa",
+                "20 a 29",
+                "M",
+                "Relacionado",
+                "Colombia"
+            ],
+            [
+                "173",
+                "20/03/2020",
+                "Bogotá",
+                "casa",
+                "60 a 69",
+                "F",
+                "Importado",
+                "México"
+            ],
+            [
+                "174",
+                "20/03/2020",
+                "Bogotá",
+                "casa",
+                "70 a 79",
+                "M",
+                "Importado",
+                "México"
+            ],
+            [
+                "175",
+                "20/03/2020",
+                "Bogotá",
+                "casa",
+                "20 a 29",
+                "F",
+                "Importado",
+                "España"
+            ],
+            [
+                "176",
+                "21/03/2020",
+                "Ibagué",
+                "casa",
+                "20 a 29",
+                "F",
+                "Importado",
+                "Estados Unidos"
+            ],
+            [
+                "177",
+                "21/03/2020",
+                "Cartagena",
+                "casa",
+                "20 a 29",
+                "M",
+                "En estudio",
+                "Colombia"
+            ],
+            [
+                "178",
+                "21/03/2020",
+                "Cartagena",
+                "casa",
+                "20 a 29",
+                "M",
+                "Importado",
+                "Estados Unidos"
+            ],
+            [
+                "179",
+                "21/03/2020",
+                "Cartagena",
+                "casa",
+                "40 a 49",
+                "F",
+                "En estudio",
+                "Colombia"
+            ],
+            [
+                "180",
+                "21/03/2020",
+                "Villa del Rosario",
+                "casa",
+                "20 a 29",
+                "M",
+                "Importado",
+                "España"
+            ],
+            [
+                "181",
+                "21/03/2020",
+                "Manizales",
+                "casa",
+                "20 a 29",
+                "F",
+                "Importado",
+                "Estados Unidos"
+            ],
+            [
+                "182",
+                "21/03/2020",
+                "Cúcuta",
+                "casa",
+                "40 a 49",
+                "F",
+                "Relacionado",
+                "Colombia"
+            ],
+            [
+                "183",
+                "21/03/2020",
+                "Cali",
+                "casa",
+                "40 a 49",
+                "F",
+                "Importado",
+                "Ecuador"
+            ],
+            [
+                "184",
+                "21/03/2020",
+                "Pereira",
+                "hospital",
+                "40 a 49",
+                "F",
+                "Importado",
+                "Estados Unidos"
+            ],
+            [
+                "185",
+                "21/03/2020",
+                "Palmira",
+                "casa",
+                "50 a 59",
+                "F",
+                "Relacionado",
+                "Colombia"
+            ],
+            [
+                "186",
+                "21/03/2020",
+                "Palmira",
+                "casa",
+                "50 a 59",
+                "F",
+                "Importado",
+                "España"
+            ],
+            [
+                "187",
+                "21/03/2020",
+                "Cali",
+                "casa",
+                "70 a 79",
+                "M",
+                "En estudio",
+                "Colombia"
+            ],
+            [
+                "188",
+                "21/03/2020",
+                "Cali",
+                "hospital",
+                "30 a 39",
+                "F",
+                "Relacionado",
+                "Colombia"
+            ],
+            [
+                "189",
+                "21/03/2020",
+                "Cali",
+                "casa",
+                "80 a 89",
+                "F",
+                "Importado",
+                "Estados Unidos"
+            ],
+            [
+                "190",
+                "21/03/2020",
+                "Cali",
+                "casa",
+                "20 a 29",
+                "M",
+                "Importado",
+                "España"
+            ],
+            [
+                "191",
+                "21/03/2020",
+                "Palmira",
+                "casa",
+                "10 a 19",
+                "M",
+                "Importado",
+                "Estados Unidos"
+            ],
+            [
+                "192",
+                "21/03/2020",
+                "Cali",
+                "casa",
+                "30 a 39",
+                "F",
+                "Relacionado",
+                "Colombia"
+            ],
+            [
+                "193",
+                "21/03/2020",
+                "Cali",
+                "casa",
+                "50 a 59",
+                "F",
+                "Importado",
+                "Italia"
+            ],
+            [
+                "194",
+                "21/03/2020",
+                "Palmira",
+                "casa",
+                "60 a 69",
+                "F",
+                "Importado",
+                "España"
+            ],
+            [
+                "195",
+                "21/03/2020",
+                "Pereira",
+                "casa",
+                "60 a 69",
+                "F",
+                "Importado",
+                "Estados Unidos"
+            ],
+            [
+                "196",
+                "21/03/2020",
+                "Neiva",
+                "casa",
+                "50 a 59",
+                "F",
+                "Importado",
+                "España"
+            ],
+            [
+                "197",
+                "21/03/2020",
+                "Cartagena",
+                "fallecido",
+                "50 a 59",
+                "M",
+                "Relacionado",
+                "Colombia"
+            ],
+            [
+                "198",
+                "21/03/2020",
+                "Medellín",
+                "casa",
+                "30 a 39",
+                "M",
+                "Importado",
+                "España"
+            ],
+            [
+                "199",
+                "21/03/2020",
+                "Guarne",
+                "casa",
+                "20 a 29",
+                "M",
+                "Importado",
+                "Estados Unidos"
+            ],
+            [
+                "200",
+                "21/03/2020",
+                "Cartagena",
+                "casa",
+                "50 a 59",
+                "F",
+                "Relacionado",
+                "Colombia"
+            ],
+            [
+                "201",
+                "21/03/2020",
+                "Chía",
+                "casa",
+                "50 a 59",
+                "F",
+                "Importado",
+                "España"
+            ],
+            [
+                "202",
+                "21/03/2020",
+                "Itaguí",
+                "hospital",
+                "50 a 59",
+                "M",
+                "En estudio",
+                ""
+            ],
+            [
+                "203",
+                "21/03/2020",
+                "Barranquilla",
+                "casa",
+                "20 a 29",
+                "F",
+                "Importado",
+                "Estados Unidos"
+            ],
+            [
+                "204",
+                "21/03/2020",
+                "Barranquilla",
+                "casa",
+                "30 a 39",
+                "M",
+                "Importado",
+                "Estados Unidos"
+            ],
+            [
+                "205",
+                "21/03/2020",
+                "Bogotá",
+                "casa",
+                "20 a 29",
+                "M",
+                "Relacionado",
+                "Colombia"
+            ],
+            [
+                "206",
+                "21/03/2020",
+                "Bogotá",
+                "casa",
+                "60 a 69",
+                "F",
+                "Importado",
+                "España"
+            ],
+            [
+                "207",
+                "21/03/2020",
+                "Bogotá",
+                "casa",
+                "40 a 49",
+                "M",
+                "Importado",
+                "Guatemala"
+            ],
+            [
+                "208",
+                "21/03/2020",
+                "Bogotá",
+                "casa",
+                "60 a 69",
+                "M",
+                "Importado",
+                "España"
+            ],
+            [
+                "209",
+                "21/03/2020",
+                "Bogotá",
+                "casa",
+                "60 a 69",
+                "F",
+                "Importado",
+                "Reino Unido"
+            ],
+            [
+                "210",
+                "21/03/2020",
+                "Bogotá",
+                "casa",
+                "50 a 59",
+                "M",
+                "Importado",
+                "Turquia"
+            ]
+        ],
+        [
+            [
+                "COVID-19 Colombia | Reporte 21-03-2020-Corte 8pm"
+            ]
+        ],
+        [
+            [
+                "<font color=\"#ed1e79\"><b>210</b></font>",
+                "Casos <b>Confirmados en Colombia</b>",
+                "boyPath"
+            ],
+            [
+                "<b><font color=\"#ed1e79\">1</font></b><br>",
+                "<b>Muerte en Colombia<b/>",
+                "1035639Path"
+            ],
+            [
+                "<b><font color=\"#ed1e79\">4.955</font></b><br>",
+                "Casos <b>Descartados en Colombia</b> ",
+                "902054Path"
+            ],
+            [
+                "<font color=\"#ed1e79\"><b>23.804</b></font>",
+                "Casos <b>Confirmados en América</b>",
+                "1104641Path"
+            ],
+            [
+                "<b><font color=\"#ed1e79\">271.364</font></b>",
+                "Casos <b>Confirmados en el Mundo</b>",
+                "16894Path"
+            ],
+            [
+                "<b><font color=\"#ed1e79\">173</font></b><br>",
+                "<b>Países</b> con casos confirmados",
+                "globePath"
+            ],
+            [
+                "",
+                "",
+                ""
+            ],
+            [
+                "",
+                "",
+                ""
+            ],
+            [
+                " ",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "Caldas",
+                "3",
+                "Casos de Coronavirus",
+                "5.2895 -75.4375",
+                "Caldas"
+            ],
+            [
+                "Meta",
+                "1",
+                "Casos de Coronavirus",
+                "3.272 -73.25",
+                "Meta"
+            ],
+            [
+                "Atlántico",
+                "2",
+                "Casos de Coronavirus",
+                "10.6823 -74.9687",
+                "Atlántico"
+            ],
+            [
+                "Quindío",
+                "3",
+                "Casos de Coronavirus",
+                "4.4589 -75.6909",
+                "Quindío"
+            ],
+            [
+                "Santander",
+                "2",
+                "Casos de Coronavirus",
+                "6.6957 -73.4905",
+                "Santander"
+            ],
+            [
+                "Tolima",
+                "3",
+                "Casos de Coronavirus",
+                "4.0359 -75.2616",
+                "Tolima"
+            ],
+            [
+                "Cundinamarca",
+                "1",
+                "Casos de Coronavirus",
+                "5.0825 -74.4315",
+                "Cundinamarca"
+            ],
+            [
+                "Norte de Santander",
+                "8",
+                "Casos de Coronavirus",
+                "8.0922 -72.8869",
+                "Norte de Santander"
+            ],
+            [
+                "Risaralda",
+                "7",
+                "Casos de Coronavirus",
+                "5.0821 -75.8384",
+                "Risaralda"
+            ],
+            [
+                "Bolívar",
+                "14",
+                "Casos de Coronavirus",
+                "8.4577 -74.2422",
+                "Bolívar"
+            ],
+            [
+                "Antioquia",
+                "25",
+                "Casos de Coronavirus",
+                "6.9226 -75.5811",
+                "Antioquia"
+            ],
+            [
+                "Huila",
+                "10",
+                "Casos de Coronavirus",
+                "2.0868 -76.0743",
+                "Huila"
+            ],
+            [
+                "Valle del Cauca",
+                "27",
+                "Casos de Coronavirus",
+                "4.4205 -76.1505",
+                "Valle del Cauca"
+            ],
+            [
+                "Bogota",
+                "88",
+                "Casos de Coronavirus",
+                "4.2823 -74.1975",
+                "Bogota"
+            ],
+            [
+                "Cauca",
+                "2",
+                "Casos de Coronavirus",
+                "2.3955 -76.8473",
+                "Cauca"
+            ],
+            [
+                "Magdalena",
+                "2",
+                "Casos de Coronavirus",
+                "10.2355 -74.2561",
+                "Magdalena"
+            ]
+        ],
+        [
+            [
+                "Amazonas",
+                "0",
+                "Casos de Coronavirus",
+                "-0.9595 -71.1375",
+                "Amazonas",
+                "",
+                "<b><font color=\"#ed1e79\">1</font></b><br>",
+                "<b>Muertes<b/>",
+                "1035639Path"
+            ],
+            [
+                "Antioquia",
+                "11",
+                "Casos de Coronavirus",
+                "6.9226 -75.5811",
+                "Antioquia",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Arauca",
+                "0",
+                "Casos de Coronavirus",
+                "6.563 -70.8915",
+                "Arauca",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Atlántico",
+                "5",
+                "Casos de Coronavirus",
+                "10.6823 -74.9687",
+                "Atlántico",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Bogota",
+                "53",
+                "Casos de Coronavirus",
+                "4.2823 -74.1975",
+                "Bogota",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Bolívar",
+                "9",
+                "Casos de Coronavirus",
+                "8.4577 -74.2422",
+                "Bolívar",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Boyacá",
+                "0",
+                "Casos de Coronavirus",
+                "5.7719 -73.1081",
+                "Boyacá",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Caldas",
+                "2",
+                "Casos de Coronavirus",
+                "5.2895 -75.4375",
+                "Caldas",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Caquetá",
+                "0",
+                "Casos de Coronavirus",
+                "0.6785 -74.0245",
+                "Caquetá",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Casanare",
+                "0",
+                "Casos de Coronavirus",
+                "5.4042 -71.6093",
+                "Casanare",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Cauca",
+                "2",
+                "Casos de Coronavirus",
+                "2.3955 -76.8473",
+                "Cauca",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Cesar",
+                "0",
+                "Casos de Coronavirus",
+                "9.511 -73.526",
+                "Cesar",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Chocó",
+                "0",
+                "Casos de Coronavirus",
+                "4.9215 -76.9695",
+                "Chocó",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Cundinamarca",
+                "4",
+                "Casos de Coronavirus",
+                "5.0825 -74.4315",
+                "Cundinamarca",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Córdoba",
+                "0",
+                "Casos de Coronavirus",
+                "8.217 -75.652",
+                "Córdoba",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Guainía",
+                "0",
+                "Casos de Coronavirus",
+                "2.7278 -68.8158",
+                "Guainía",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Guaviare",
+                "0",
+                "Casos de Coronavirus",
+                "1.9273 -72.1187",
+                "Guaviare",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Huila",
+                "9",
+                "Casos de Coronavirus",
+                "2.0868 -76.0743",
+                "Huila",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "La Guajira",
+                "0",
+                "Casos de Coronavirus",
+                "11.4908 -72.4337",
+                "La Guajira",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Magdalena",
+                "0",
+                "Casos de Coronavirus",
+                "10.2355 -74.2561",
+                "Magdalena",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Meta",
+                "1",
+                "Casos de Coronavirus",
+                "3.272 -73.25",
+                "Meta",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Nariño",
+                "0",
+                "Casos de Coronavirus",
+                "1.499 -77.933",
+                "Nariño",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Norte de Santander",
+                "6",
+                "Casos de Coronavirus",
+                "8.0922 -72.8869",
+                "Norte de Santander",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Putumayo",
+                "0",
+                "Casos de Coronavirus",
+                "0.437 -75.5515",
+                "Putumayo",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Quindío",
+                "3",
+                "Casos de Coronavirus",
+                "4.4589 -75.6909",
+                "Quindío",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Risaralda",
+                "5",
+                "Casos de Coronavirus",
+                "5.0821 -75.8384",
+                "Risaralda",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "San Andrés y Providencia",
+                "0",
+                "Casos de Coronavirus",
+                "12.559 -81.705",
+                "San Andrés y Providencia",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Santander",
+                "2",
+                "Casos de Coronavirus",
+                "6.6957 -73.4905",
+                "Santander",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Sucre",
+                "0",
+                "Casos de Coronavirus",
+                "9.2115 -75.1235",
+                "Sucre",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Tolima",
+                "2",
+                "Casos de Coronavirus",
+                "4.0359 -75.2616",
+                "Tolima",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Valle del Cauca",
+                "14",
+                "Casos de Coronavirus",
+                "4.4205 -76.1505",
+                "Valle del Cauca",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Vaupés",
+                "0",
+                "Casos de Coronavirus",
+                "0.6699 -70.5776",
+                "Vaupés",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Vichada",
+                "0",
+                "Casos de Coronavirus",
+                "4.7266 -69.4075",
+                "Vichada",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "Países con circulación activa de COVID 19",
+                "DETALLE DE PRUEBAS"
+            ],
+            [
+                "Muestras Procesadas",
+                "1263"
+            ],
+            [
+                "Muestras En Proceso",
+                "73"
+            ]
+        ],
+        [
+            [
+                "<b>1.263</b>",
+                "Muestras ingresadas<br>",
+                "positivePath"
+            ],
+            [
+                "<b>2.526</b>",
+                "Total reacciones PCR<br>",
+                "positivePath"
+            ]
+        ],
+        [
+            [
+                "",
+                "108 Masculino",
+                "99 Femenino"
+            ],
+            [
+                "0 a 9 años:",
+                "1",
+                ""
+            ],
+            [
+                "10 a 19 años:",
+                "5",
+                "3"
+            ],
+            [
+                "20 a 29 años:",
+                "31",
+                "26"
+            ],
+            [
+                "30 a 39 años:",
+                "22",
+                "16"
+            ],
+            [
+                "40 a 49 años:",
+                "11",
+                "23"
+            ],
+            [
+                "50 a 59 años:",
+                "23",
+                "17"
+            ],
+            [
+                "60 a 69 años:",
+                "",
+                "1"
+            ],
+            [
+                "70 a 79 años:",
+                "8",
+                "10"
+            ],
+            [
+                "80 a 89 años:",
+                "7",
+                "3"
+            ]
+        ],
+        [
+            [
+                "Edad",
+                "",
+                "F",
+                "M"
+            ],
+            [
+                "",
+                "0",
+                "",
+                ""
+            ],
+            [
+                "0 a 9",
+                "",
+                "",
+                "1"
+            ],
+            [
+                "10 a 19",
+                "",
+                "3",
+                "5"
+            ],
+            [
+                "20 a 29",
+                "",
+                "26",
+                "31"
+            ],
+            [
+                "30 a 39",
+                "",
+                "16",
+                "22"
+            ],
+            [
+                "40 a 49",
+                "",
+                "23",
+                "11"
+            ],
+            [
+                "50 a 59",
+                "",
+                "17",
+                "23"
+            ],
+            [
+                "60 a  69",
+                "",
+                "1",
+                ""
+            ],
+            [
+                "60 a 69",
+                "",
+                "10",
+                "8"
+            ],
+            [
+                "70 a 79",
+                "",
+                "3",
+                "7"
+            ],
+            [
+                "80 a 89",
+                "",
+                "2",
+                "1"
+            ],
+            [
+                "",
+                "",
+                "101",
+                ""
+            ]
+        ],
+        [
+            [
+                "133",
+                "<b>Casos Importados</b><br>\n<small>Ingresó a Colombia después de venir de un país con circulación de COVID</small>",
+                "planePath"
+            ],
+            [
+                "69",
+                "<b>Casos Relacionados</b><br><small>Tuvo contacto con un caso confirmado de COVID</small>",
+                "319562Path"
+            ],
+            [
+                "8",
+                "<b>Casos en Estudio</b><br> <small>se está definiendo la cadena de transmisión</small>",
+                "14173Path"
+            ]
+        ],
+        [
+            [
+                "País de procedencia",
+                "# de Casos"
+            ],
+            [
+                "Colombia",
+                "75"
+            ],
+            [
+                "España",
+                "67"
+            ],
+            [
+                "Estados Unidos",
+                "28"
+            ],
+            [
+                "Ecuador",
+                "6"
+            ],
+            [
+                "Italia",
+                "5"
+            ],
+            [
+                "",
+                "3"
+            ],
+            [
+                "España - Italia",
+                "2"
+            ],
+            [
+                "España-Italia",
+                "2"
+            ],
+            [
+                "Francia",
+                "2"
+            ],
+            [
+                "México",
+                "2"
+            ],
+            [
+                "Alemania",
+                "1"
+            ],
+            [
+                "Alemania-Estambul",
+                "1"
+            ],
+            [
+                "Brasil",
+                "1"
+            ],
+            [
+                "España-Croacia",
+                "1"
+            ],
+            [
+                "España-Croacia-Bosnia",
+                "1"
+            ],
+            [
+                "España-India",
+                "1"
+            ],
+            [
+                "Estados Unidos-México",
+                "1"
+            ],
+            [
+                "Grecia",
+                "1"
+            ],
+            [
+                "Guatemala",
+                "1"
+            ],
+            [
+                "Italia - España",
+                "1"
+            ],
+            [
+                "Italia- Jamaica- Panamá",
+                "1"
+            ],
+            [
+                "Italia-Ucrania-España",
+                "1"
+            ],
+            [
+                "Italia-Ucrania-Turquía",
+                "1"
+            ],
+            [
+                "Jamaica-Panamá-Islas Caimán",
+                "1"
+            ],
+            [
+                "Reino Unido",
+                "1"
+            ],
+            [
+                "Turquia",
+                "1"
+            ],
+            [
+                "Turquía",
+                "1"
+            ],
+            [
+                "Turquía-Grecia",
+                "1"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "Tipo*",
+                "# de Casos"
+            ],
+            [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "Importado",
+                "133"
+            ],
+            [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "Relacionado",
+                "69"
+            ],
+            [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "En estudio",
+                "8"
+            ],
+            [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "0"
+            ]
+        ],
+        [
+            [
+                "China",
+                "50",
+                "32.205 109.444",
+                "China"
+            ],
+            [
+                "Italy",
+                "49",
+                "45.3889 10.7776",
+                "Italia"
+            ],
+            [
+                "Spain",
+                "48",
+                "40.3544 -3.611",
+                "España"
+            ],
+            [
+                "United States",
+                "47",
+                "39.382 -99.3421",
+                "Estados Unidos"
+            ],
+            [
+                "Germany",
+                "46",
+                "51.143 9.829",
+                "Alemania"
+            ],
+            [
+                "France",
+                "45",
+                "46.6113 2.3336",
+                "Francia"
+            ],
+            [
+                "Korea, South",
+                "44",
+                "36.0655 127.7925",
+                "Corea del Sur"
+            ],
+            [
+                "Switzerland",
+                "43",
+                "46.7919 8.1183",
+                "Suiza"
+            ],
+            [
+                "United Kingdom",
+                "42",
+                "52.4072 -1.7451",
+                "Reino Unido"
+            ],
+            [
+                "Netherlands",
+                "41",
+                "52.157 5.2035",
+                "Países Bajos"
+            ],
+            [
+                "Austria",
+                "40",
+                "47.614 14.0762",
+                "Austria"
+            ],
+            [
+                "Belgium",
+                "39",
+                "50.6522 4.5809",
+                "Bélgica"
+            ],
+            [
+                "Norway",
+                "38",
+                "60.5366 7.4496",
+                "Noruega"
+            ],
+            [
+                "Sweden",
+                "37",
+                "58.581 14.246",
+                "Suecia"
+            ],
+            [
+                "Denmark",
+                "36",
+                "56.2196 9.3108",
+                "Dinamarca"
+            ],
+            [
+                "Japan",
+                "35",
+                "36.8513 139.1112",
+                "Japón"
+            ],
+            [
+                "Canada",
+                "34",
+                "58.838 -120.439",
+                "Canadá"
+            ],
+            [
+                "Portugal",
+                "33",
+                "38.7993 -8.3502",
+                "Portugal"
+            ],
+            [
+                "Australia",
+                "32",
+                "-23.079 132.842",
+                "Australia"
+            ],
+            [
+                "Israel",
+                "31",
+                "30.6283 34.7087",
+                "Israel"
+            ],
+            [
+                "Brazil",
+                "30",
+                "-12.4328 -48.9943",
+                "Brasil"
+            ],
+            [
+                "Greece",
+                "29",
+                "38.4414 22.1814",
+                "Grecia"
+            ],
+            [
+                "Finland",
+                "28",
+                "63.0704 27.7396",
+                "Finlandia"
+            ],
+            [
+                "Turkey",
+                "27",
+                "39.3196 34.3321",
+                "Turquía"
+            ],
+            [
+                "Poland",
+                "26",
+                "52.1484 19.311",
+                "Polonia"
+            ],
+            [
+                "Singapore",
+                "25",
+                "1.3565 103.8215",
+                "Singapur"
+            ],
+            [
+                "Chile",
+                "24",
+                "-45.7382 -72.9381",
+                "Chile"
+            ],
+            [
+                "Slovenia",
+                "23",
+                "46.152 15.1315",
+                "Eslovenia"
+            ],
+            [
+                "Romania",
+                "22",
+                "45.857 24.9433",
+                "Rumania"
+            ],
+            [
+                "Peru",
+                "21",
+                "-13.1699 -73.0464",
+                "Perú"
+            ],
+            [
+                "Philippines",
+                "20",
+                "17.3711 121.4954",
+                "Filipinas"
+            ],
+            [
+                "Indonesia",
+                "19",
+                "-0.9517 114.2118",
+                "Indonesia"
+            ],
+            [
+                "Ecuador",
+                "18",
+                "-1.4547 -78.3841",
+                "Ecuador"
+            ],
+            [
+                "India",
+                "17",
+                "22.1596 78.9305",
+                "India"
+            ],
+            [
+                "South Africa",
+                "16",
+                "-29.6482 23.1067",
+                "Suráfrica"
+            ],
+            [
+                "Lebanon",
+                "15",
+                "33.9117 35.8708",
+                "Líbano"
+            ],
+            [
+                "Panama",
+                "14",
+                "8.4165 -81.7705",
+                "Panamá"
+            ],
+            [
+                "Argentina",
+                "13",
+                "-31.9447 -64.1398",
+                "Argentina"
+            ],
+            [
+                "Slovakia",
+                "12",
+                "48.7266 19.5075",
+                "Eslovaquia"
+            ],
+            [
+                "Bulgaria",
+                "11",
+                "42.7345 23.8815",
+                "Bulgaria"
+            ],
+            [
+                "Croatia",
+                "10",
+                "46.001 16.172",
+                "Croacia"
+            ],
+            [
+                "Costa Rica",
+                "9",
+                "9.9656 -84.1755",
+                "Costa Rica"
+            ],
+            [
+                "Hungary",
+                "8",
+                "47.192 20.498",
+                "Hungría"
+            ],
+            [
+                "New Zealand",
+                "7",
+                "-44.7201 169.9667",
+                "Nueva Zelandia"
+            ],
+            [
+                "Ukraine",
+                "6",
+                "48.8464 33.5486",
+                "Ucrania"
+            ],
+            [
+                "Dominican Republic",
+                "5",
+                "18.8845 -70.4623",
+                "República Dominicana"
+            ],
+            [
+                "Cuba",
+                "4",
+                "20.2717 -75.3897",
+                "Cuba"
+            ],
+            [
+                "Jamaica",
+                "3",
+                "18.1125 -77.269",
+                "Jamaica"
+            ],
+            [
+                "Paraguay",
+                "2",
+                "-21.9074 -60.1206",
+                "Paraguay"
+            ]
+        ]
+    ],
+    "fileName": "COOVID-2019-INS",
+    "sheetNames": [
+        "PositivasNegativas",
+        "Casos1",
+        "Titulo",
+        "IndicadoresGenerales",
+        "Mapa",
+        "Copia de Mapa",
+        "Procesadas",
+        "PCR",
+        "Etario",
+        "TotalEtario",
+        "importadosvsrelacionados",
+        "Procedencia",
+        "Hoja 12",
+        "Mundo"
+    ],
+    "version": "467"
+}}

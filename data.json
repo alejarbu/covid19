@@ -1,0 +1,778 @@
+window.infographicData={
+    "id": 151162655,
+    "type": 1,
+    "block_id": "bc384047-e71c-47d9-b606-1eb6a29962e3",
+    "theme_id": 289,
+    "user_id": 1223686,
+    "team_user_id": null,
+    "path": "01266038-4580-4cf0-baab-a532bd968d0c",
+    "title": "DetalleCasos",
+    "description": "",
+    "tags": "",
+    "public": true,
+    "publicAccess": false,
+    "private_link_enabled": 0,
+    "thumb": "https:\u002F\u002Finfogram-thumbs-200.s3-eu-west-1.amazonaws.com\u002Fbc384047-e71c-47d9-b606-1eb6a29962e3.jpg",
+    "embedImageUrl": "https:\u002F\u002Finfogram.io\u002Fp\u002F57ea46574ba415dc27e507eca9b3719e.png",
+    "previewImageUrl": "https:\u002F\u002Finfogram.io\u002Fp\u002Fab6919e662d5a0132fb65e1ef11e024a.png",
+    "width": 550,
+    "copyright": "",
+    "properties": {
+        "tabs": true,
+        "zeropaddingembed": true,
+        "flexTemplateId": "ac3efb36-1ee5-447d-aa88-abb6c5c56d43",
+        "type": "infographic_freeLayout",
+        "themeId": 215,
+        "footerSettings": {
+            "logoType": "custom_logo-infogram",
+            "showFooter": true,
+            "customLinkOption": "text",
+            "hasCustomLink": false
+        },
+        "publishType": 0,
+        "cspsources": "http:\u002F\u002Fwww.ins.gov.co; https:\u002F\u002Fwww.ins.gov.co",
+        "transparent": false,
+        "rtl": false,
+        "language": "en",
+        "export_settings": {
+            "showGrid": true,
+            "showValues": true
+        },
+        "whitelabel": false,
+        "decimal_separator": ".",
+        "embed_button": "enabled",
+        "title_link": "infogram",
+        "custom_logo": "infogram",
+        "custom_link_url": "",
+        "logoName": "Infogram logo",
+        "showChartsOnScroll": true,
+        "pro": true
+    },
+    "elements": {
+        "content": {
+            "allowFullscreen": true,
+            "allowToShare": true,
+            "assets": {},
+            "content": {
+                "blockOrder": [
+                    "ecb6c8f2-75e1-4a0f-aae4-87ebb7d0958b"
+                ],
+                "blocks": {
+                    "ecb6c8f2-75e1-4a0f-aae4-87ebb7d0958b": {
+                        "design": {
+                            "header": {
+                                "text": ""
+                            },
+                            "hideFooter": false
+                        },
+                        "entities": [
+                            "41b1ef61-e7cf-42f4-ae4a-1f15477c22f5",
+                            "32574a16-7555-4796-87b3-7b77a49d0f03"
+                        ]
+                    }
+                },
+                "entities": {
+                    "32574a16-7555-4796-87b3-7b77a49d0f03": {
+                        "filters": {},
+                        "height": 14,
+                        "left": 60,
+                        "lockAspectRatio": false,
+                        "locked": false,
+                        "maxHeight": 10000,
+                        "maxWidth": 10000,
+                        "minHeight": 1,
+                        "minWidth": 1,
+                        "props": {
+                            "content": {
+                                "blocks": [
+                                    {
+                                        "data": {
+                                            "align": "ALIGN_CENTER",
+                                            "ig:color": "{{colors.#ED1E79}}",
+                                            "ig:fontFamily": "Montserrat",
+                                            "ig:fontSize": "10px",
+                                            "ig:letterSpacing": "{{letterSpacing|0px}}",
+                                            "ig:lineHeight": "{{lineHeight}}"
+                                        },
+                                        "depth": 0,
+                                        "entityRanges": [],
+                                        "inlineStyleRanges": [
+                                            {
+                                                "length": 125,
+                                                "offset": 0,
+                                                "style": "ig:lineHeight:{{lineHeight}}"
+                                            },
+                                            {
+                                                "length": 125,
+                                                "offset": 0,
+                                                "style": "ig:letterSpacing:{{letterSpacing|0px}}"
+                                            },
+                                            {
+                                                "length": 125,
+                                                "offset": 0,
+                                                "style": "ig:color:{{colors.#ED1E79}}"
+                                            },
+                                            {
+                                                "length": 125,
+                                                "offset": 0,
+                                                "style": "ig:fontFamily:Montserrat"
+                                            },
+                                            {
+                                                "length": 125,
+                                                "offset": 0,
+                                                "style": "ig:fontSize:10px"
+                                            }
+                                        ],
+                                        "key": "2gsc2",
+                                        "text": "* Los casos marcados como en estudio están sujetos a modificación una vez se identifique el origen (importado o relacionado).",
+                                        "type": "unstyled"
+                                    }
+                                ],
+                                "entityMap": {}
+                            },
+                            "contentHTML": "\u003Cdiv class=\"DraftEditor-root\"\u003E\u003Cdiv class=\"DraftEditor-editorContainer\"\u003E\u003Cdiv aria-describedby=\"placeholder-ig_static\" class=\"public-DraftEditor-content\" contenteditable=\"false\" spellcheck=\"false\" style=\"outline:none;user-select:text;-webkit-user-select:text;white-space:pre-wrap;word-wrap:break-word\"\u003E\u003Cdiv data-contents=\"true\"\u003E\u003Cdiv class=\"__ig-alignCenter\" data-block=\"true\" data-editor=\"ig_static\" data-offset-key=\"2gsc2-0-0\"\u003E\u003Cdiv data-offset-key=\"2gsc2-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"\u003E\u003Cspan data-offset-key=\"2gsc2-0-0\" style=\"line-height:15px;letter-spacing:0px;color:#ED1E79;font-family:&#x27;Montserrat&#x27;;font-size:10px\"\u003E\u003Cspan data-text=\"true\"\u003E* Los casos marcados como en estudio están sujetos a modificación una vez se identifique el origen (importado o relacionado).\u003C\u002Fspan\u003E\u003C\u002Fspan\u003E\u003C\u002Fdiv\u003E\u003C\u002Fdiv\u003E\u003C\u002Fdiv\u003E\u003C\u002Fdiv\u003E\u003C\u002Fdiv\u003E\u003C\u002Fdiv\u003E",
+                            "customSizing": true,
+                            "opacity": 1,
+                            "overflow": true,
+                            "resetFontKerning": true,
+                            "scaleHeight": 15,
+                            "scaleWidth": 806,
+                            "scaleX": 0.9407407407407408,
+                            "scaleY": 0.9333333333333333,
+                            "template": "body",
+                            "verticalAlign": "top"
+                        },
+                        "top": 526,
+                        "transform": {
+                            "flipHorizontal": false,
+                            "flipVertical": false,
+                            "rotate": 0
+                        },
+                        "type": "TEXT",
+                        "width": 762
+                    },
+                    "41b1ef61-e7cf-42f4-ae4a-1f15477c22f5": {
+                        "filters": {},
+                        "height": 461,
+                        "left": 60,
+                        "lockAspectRatio": false,
+                        "locked": false,
+                        "maxHeight": 10000,
+                        "maxWidth": 10000,
+                        "minHeight": 50,
+                        "minWidth": 50,
+                        "props": {
+                            "chartData": {
+                                "accessibility": {
+                                    "description": "",
+                                    "enabled": true,
+                                    "label": "Chart"
+                                },
+                                "chart_type_nr": 19,
+                                "colors": [
+                                    "#3ba6b4",
+                                    "{{colors.#3366CC}}",
+                                    "#464646",
+                                    "#fff",
+                                    "#e7e9e8",
+                                    "{{colors.#FFFFFF}}",
+                                    "#3366CC",
+                                    "#3ba6b4",
+                                    "#fff"
+                                ],
+                                "custom": {
+                                    "A1cell": false,
+                                    "decimalSeparator": ".",
+                                    "defaultPath": "circlePath",
+                                    "dynamicWidth": true,
+                                    "groupingSymbol": "none",
+                                    "headerColumn": true,
+                                    "hideTabs": false,
+                                    "labels": {
+                                        "graph": {
+                                            "item": {
+                                                "value": {
+                                                    "font-family": "Montserrat"
+                                                }
+                                            }
+                                        },
+                                        "sheetSwitch": {
+                                            "tab": {
+                                                "font-family": "Montserrat"
+                                            }
+                                        }
+                                    },
+                                    "live": {
+                                        "chartId": "664bc407-2569-4ab8-b7fb-9deb668ddb7a",
+                                        "enabled": true,
+                                        "fileId": "",
+                                        "key": "aba1c676-18d4-40e6-adf6-b734905b12e2",
+                                        "provider": "atlas_google_drive",
+                                        "providerProperties": {},
+                                        "refresh": 30000,
+                                        "refreshed": 1584756908234,
+                                        "sheetNames": [
+                                            "PositivasNegativas",
+                                            "Casos1",
+                                            "Titulo",
+                                            "IndicadoresGenerales",
+                                            "Mapa",
+                                            "Copia de Mapa",
+                                            "Procesadas",
+                                            "PCR",
+                                            "Etario",
+                                            "TotalEtario",
+                                            "importadosvsrelacionados",
+                                            "Procedencia",
+                                            "Hoja 12",
+                                            "Mundo"
+                                        ],
+                                        "sheetSelected": 1,
+                                        "title": "COOVID-2019-INS",
+                                        "updated": 0,
+                                        "url": "https:\u002F\u002Fatlas.jifo.co\u002Fapi\u002Fconnectors\u002Faba1c676-18d4-40e6-adf6-b734905b12e2"
+                                    },
+                                    "searchFirstRow": false,
+                                    "showDownload": true,
+                                    "showSearch": true,
+                                    "styleName": false,
+                                    "verticalHeader": false
+                                },
+                                "data": [
+                                    [
+                                        [
+                                            "ID de caso",
+                                            "Fecha de diagnóstico",
+                                            "Ciudad de ubicación",
+                                            "Atención",
+                                            "Edad",
+                                            "Sexo",
+                                            "Tipo*",
+                                            "País de procedencia"
+                                        ],
+                                        [
+                                            "1",
+                                            "3\u002F6\u002F2020",
+                                            "Bogotá",
+                                            "casa",
+                                            "10 a 19",
+                                            "F",
+                                            "Importado",
+                                            "Italia"
+                                        ],
+                                        [
+                                            "2",
+                                            "3\u002F9\u002F2020",
+                                            "Buga",
+                                            "hospital",
+                                            "30 a 39",
+                                            "M",
+                                            "Importado",
+                                            "España"
+                                        ],
+                                        [
+                                            "3",
+                                            "3\u002F9\u002F2020",
+                                            "Medellín",
+                                            "casa",
+                                            "50 a 59",
+                                            "F",
+                                            "Importado",
+                                            "España"
+                                        ],
+                                        [
+                                            "4",
+                                            "3\u002F11\u002F2020",
+                                            "Medellín",
+                                            "casa",
+                                            "50 a 59",
+                                            "M",
+                                            "Relacionado",
+                                            "Colombia"
+                                        ],
+                                        [
+                                            "5",
+                                            "3\u002F11\u002F2020",
+                                            "Medellín",
+                                            "casa",
+                                            "20 a 29",
+                                            "M",
+                                            "Relacionado",
+                                            "Colombia"
+                                        ],
+                                        [
+                                            "6",
+                                            "3\u002F11\u002F2020",
+                                            "Itagüí",
+                                            "casa",
+                                            "20 a 29",
+                                            "F",
+                                            "Relacionado",
+                                            "Colombia"
+                                        ],
+                                        [
+                                            "7",
+                                            "3\u002F11\u002F2020",
+                                            "Cartagena",
+                                            "hospital",
+                                            "80 a 89",
+                                            "F",
+                                            "Importado",
+                                            "Estados Unidos"
+                                        ],
+                                        [
+                                            "8",
+                                            "3\u002F11\u002F2020",
+                                            "Bogotá",
+                                            "casa",
+                                            "20 a 29",
+                                            "F",
+                                            "Importado",
+                                            "España"
+                                        ],
+                                        [
+                                            "9",
+                                            "3\u002F11\u002F2020",
+                                            "Bogotá",
+                                            "casa",
+                                            "20 a 29",
+                                            "F",
+                                            "Importado",
+                                            "España-Italia"
+                                        ],
+                                        [
+                                            "10",
+                                            "3\u002F12\u002F2020",
+                                            "Bogotá",
+                                            "casa",
+                                            "30 a 39",
+                                            "F",
+                                            "Importado",
+                                            "España"
+                                        ],
+                                        [
+                                            "11",
+                                            "3\u002F12\u002F2020",
+                                            "Bogotá",
+                                            "casa",
+                                            "40 a 49",
+                                            "F",
+                                            "Importado",
+                                            "España"
+                                        ],
+                                        [
+                                            "12",
+                                            "3\u002F12\u002F2020",
+                                            "Neiva",
+                                            "hospital",
+                                            "70 a 79",
+                                            "F",
+                                            "Importado",
+                                            "Italia"
+                                        ],
+                                        [
+                                            "13",
+                                            "3\u002F12\u002F2020",
+                                            "Neiva",
+                                            "hospital",
+                                            "60 a 69",
+                                            "F",
+                                            "Relacionado",
+                                            "Colombia"
+                                        ],
+                                        [
+                                            "14",
+                                            "13\u002F3\u002F2020",
+                                            "Palmira",
+                                            "casa",
+                                            "40 a 49",
+                                            "M",
+                                            "Importado",
+                                            "España"
+                                        ],
+                                        [
+                                            "15",
+                                            "13\u002F3\u002F2020",
+                                            "Villavicencio",
+                                            "casa",
+                                            "30 a 39",
+                                            "F",
+                                            "Importado",
+                                            "España"
+                                        ],
+                                        [
+                                            "16",
+                                            "13\u002F3\u002F2020",
+                                            "Bogotá",
+                                            "hospital",
+                                            "60 a 69",
+                                            "F",
+                                            "Importado",
+                                            "Italia-Ucrania-España"
+                                        ],
+                                        [
+                                            "17",
+                                            "14\u002F03\u002F2020",
+                                            "Bogotá",
+                                            "casa",
+                                            "70 a 79",
+                                            "F",
+                                            "Importado",
+                                            "España"
+                                        ],
+                                        [
+                                            "18",
+                                            "14\u002F03\u002F2020",
+                                            "Bogotá",
+                                            "casa",
+                                            "50 a 59",
+                                            "M",
+                                            "Importado",
+                                            "España"
+                                        ],
+                                        [
+                                            "19",
+                                            "14\u002F03\u002F2020",
+                                            "Bogotá",
+                                            "casa",
+                                            "50 a 59",
+                                            "F",
+                                            "Relacionado",
+                                            "Colombia"
+                                        ],
+                                        [
+                                            "20",
+                                            "14\u002F03\u002F2020",
+                                            "Medellín",
+                                            "casa",
+                                            "20 a 29",
+                                            "F",
+                                            "Relacionado",
+                                            "Colombia"
+                                        ],
+                                        [
+                                            "21",
+                                            "14\u002F03\u002F2020",
+                                            "Medellín",
+                                            "casa",
+                                            "20 a 29",
+                                            "M",
+                                            "Relacionado",
+                                            "Colombia"
+                                        ],
+                                        [
+                                            "22",
+                                            "14\u002F03\u002F2020",
+                                            "Rionegro",
+                                            "casa",
+                                            "30 a 39",
+                                            "M",
+                                            "Importado",
+                                            "Estados Unidos"
+                                        ],
+                                        [
+                                            "23",
+                                            "14\u002F03\u002F2020",
+                                            "Bogotá",
+                                            "casa",
+                                            "20 a 29",
+                                            "M",
+                                            "Relacionado",
+                                            "Sin especificar"
+                                        ],
+                                        [
+                                            "24",
+                                            "14\u002F03\u002F2020",
+                                            "Bogotá",
+                                            "casa",
+                                            "10 a 19",
+                                            "F",
+                                            "Importado",
+                                            "España"
+                                        ],
+                                        [
+                                            "25",
+                                            "15\u002F03\u002F2020",
+                                            "Cali",
+                                            "casa",
+                                            "40 a 49",
+                                            "M",
+                                            "Importado",
+                                            "España"
+                                        ],
+                                        [
+                                            "26",
+                                            "15\u002F03\u002F2020",
+                                            "Cartagena",
+                                            "casa",
+                                            "30 a 39",
+                                            "F",
+                                            "Relacionado",
+                                            "Colombia"
+                                        ],
+                                        [
+                                            "27",
+                                            "15\u002F03\u002F2020",
+                                            "Cartagena",
+                                            "casa",
+                                            "30 a 39",
+                                            "F",
+                                            "Relacionado",
+                                            "Colombia"
+                                        ],
+                                        [
+                                            "28",
+                                            "15\u002F03\u002F2020",
+                                            "Dosquebradas",
+                                            "casa",
+                                            "20 a 29",
+                                            "M",
+                                            "Importado",
+                                            "Estados Unidos"
+                                        ],
+                                        [
+                                            "29",
+                                            "15\u002F03\u002F2020",
+                                            "Neiva",
+                                            "casa",
+                                            "50 a 59",
+                                            "F",
+                                            "Relacionado",
+                                            "Colombia"
+                                        ],
+                                        [
+                                            "30",
+                                            "15\u002F03\u002F2020",
+                                            "Cucuta",
+                                            "casa",
+                                            "40 a 49",
+                                            "F",
+                                            "Importado",
+                                            "España"
+                                        ],
+                                        [
+                                            "31",
+                                            "15\u002F03\u002F2020",
+                                            "Manizales",
+                                            "casa",
+                                            "60 a 69",
+                                            "M",
+                                            "Importado",
+                                            "Estados Unidos"
+                                        ],
+                                        [
+                                            "32",
+                                            "15\u002F03\u002F2020",
+                                            "Medellín",
+                                            "casa",
+                                            "50 a 59",
+                                            "M",
+                                            "Importado",
+                                            "España-Croacia-Bosnia"
+                                        ],
+                                        [
+                                            "33",
+                                            "15\u002F03\u002F2020",
+                                            "Bogotá",
+                                            "casa",
+                                            "50 a 59",
+                                            "M",
+                                            "Importado",
+                                            "España"
+                                        ],
+                                        [
+                                            "34",
+                                            "15\u002F03\u002F2020",
+                                            "Bogotá",
+                                            "casa",
+                                            "20 a 29",
+                                            "F",
+                                            "Importado",
+                                            "España"
+                                        ],
+                                        [
+                                            "35",
+                                            "15\u002F03\u002F2020",
+                                            "Bogotá",
+                                            "casa",
+                                            "50 a 59",
+                                            "M",
+                                            "Importado",
+                                            "España"
+                                        ],
+                                        [
+                                            "36",
+                                            "15\u002F03\u002F2020",
+                                            "Bogotá",
+                                            "casa",
+                                            "70 a 79",
+                                            "M",
+                                            "Importado",
+                                            "Estados Unidos"
+                                        ],
+                                        [
+                                            "37",
+                                            "15\u002F03\u002F2020",
+                                            "Bogotá",
+                                            "casa",
+                                            "40 a 49",
+                                            "F",
+                                            "Relacionado",
+                                            "Colombia"
+                                        ],
+                                        [
+                                            "38",
+                                            "15\u002F03\u002F2020",
+                                            "Bogotá",
+                                            "casa",
+                                            "20 a 29",
+                                            "M",
+                                            "Importado",
+                                            "España"
+                                        ],
+                                        [
+                                            "39",
+                                            "15\u002F03\u002F2020",
+                                            "Bogotá",
+                                            "casa",
+                                            "50 a 59",
+                                            "M",
+                                            "Importado",
+                                            "España"
+                                        ],
+                                        [
+                                            "40",
+                                            "15\u002F03\u002F2020",
+                                            "Bogotá",
+                                            "casa",
+                                            "20 a 29",
+                                            "F",
+                                            "Importado",
+                                            "España"
+                                        ],
+                                        [
+                                            "41",
+                                            "15\u002F03\u002F2020",
+                                            "Neiva",
+                                            "casa",
+                                            "70 a 79",
+                                            "M",
+                                            "Relacionado",
+                                            "Colombia"
+                                        ],
+                                        [
+                                            "42",
+                                            "15\u002F03\u002F2020",
+                                            "Neiva",
+                                            "casa",
+                                            "50 a 59",
+                                            "F",
+                                            "Relacionado",
+                                            "Colombia"
+                                        ],
+                                        [
+                                            "43",
+                                            "15\u002F03\u002F2020",
+                                            "Neiva",
+                                            "casa",
+                                            "70 a 79",
+                                            "M",
+                                            "Relacionado",
+                                            "Colombia"
+                                        ],
+                                        [
+                                            "44",
+                                            "15\u002F03\u002F2020",
+                                            "Neiva",
+                                            "casa",
+                                            "20 a 29",
+                                            "F",
+                                            "Relacionado",
+                                            "Colombia"
+                                        ],
+                                        [
+                                            "45",
+                                            "15\u002F03\u002F2020",
+                                            "Subachoque",
+                                            "casa",
+                                            "20 a 29",
+                                            "M",
+                                            "Importado",
+                                            "España"
+                                        ],
+                                        [
+                                            "46",
+                                            "16\u002F03\u002F2020",
+                                            "Bogotá",
+                                            "casa",
+                                            "40 a 49",
+                                            "F",
+                                            "Relacionado",
+                                            "Colombia"
+                                        ],
+                                        [
+                                            "47",
+                                            "16\u002F03\u002F2020",
+                                            "Bogotá",
+                                            "casa",
+                                            "30 a 39",
+                                            "M",
+                                            "Relacionado",
+                                            "Colombia"
+                                        ],
+                                        [
+                                            "48",
+                                            "16\u002F03\u002F2020",
+                                            "Bogotá",
+                                            "casa",
+                                            "30 a 39",
+                                            "M",
+                                            "Relacionado",
+                                            "Colombia"
+                                        ],
+                                        [
+                                            "49",
+                                            "16\u002F03\u002F2020",
+                                            "Bogotá",
+                                            "casa",
+                                            "40 a 49",
+                                            "F",
+                                            "Importado",
+                                            "España"
+                                        ],
+                                        [
+                                            "50",
+                                            "16\u002F03\u002F2020",
+                                            "Bogotá",
+                                            "casa",
+                                            "60 a 69",
+                                            "F",
+                                            "Importado",
+                                            "España"
+                                        ],
+                                        [
+                                            "51",
+                                            "16\u002F03\u002F2020",
+                                            "Soacha",
+                                            "casa",
+                                            "20 a 29",
+                                            "M",
+                                            "Importado",
+                                            "Ecuador"
+                                        ],
+                                        [
+                                            "52",
+                                            "16\u002F03\u002F2020",
+                                            "Bogotá",
+                                            "casa",
+                                            "20 a 29",
+                                            "M",
+                                            "Importado",
+                                            "España"
+                                        ],
+                                        [
+                                            "53",
+                                            "16\u002F03\u002F2020",
+                                            "Bogotá",
+                                            "casa",
+                                            "60 a 69","…
