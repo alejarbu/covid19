@@ -2,8 +2,13 @@ import pandas as pd
 import io
 import requests
 from scipy import spatial
+from sklearn.cluster import KMeans
+import numpy as np
 
 COUNTRY='Country/Region'
+
+OFFSET=8
+K=4
 
 def get_data(local=True):
     def get_online_data():
@@ -31,16 +36,31 @@ def get_country(data,country):
 def get_similar(data,country,countries):
     o_df=get_country(data,country)
     size=o_df.size
-    print(country,o_df)
+    c_array = []
+    c_names = []
     for c in countries:
-        t_df=get_country(data,c)[:size]
-        print(c,",",1 - spatial.distance.cosine(o_df,t_df),",",t_df)
+        t_df=get_country(data,c)
+        c_names.append(c)
+        c_array.append(t_df[:size])
+    
+    return c_names, c_array
 
 def get_countries(data,country):
-        size=get_country(data,country).size
+        size=get_country(data,country).size+OFFSET
         return data.groupby(COUNTRY).filter(lambda x: len(x) > size)[COUNTRY].unique()
 
-data=get_data(local=True)
-data=process_data(data)
-#get_similar(data,'Colombia',['Spain','Italy'])
-get_similar(data,'Colombia',get_countries(data,'Colombia'))
+data = get_data(local=False)
+data = process_data(data)
+
+c_names, X = get_similar(data,'Colombia',get_countries(data,'Colombia'))
+kmeans = KMeans(n_clusters=K, random_state=0).fit(X)
+
+kmodel = pd.DataFrame({'country':c_names, 'cluster':kmeans.labels_, 'data':X})
+col=get_country(data,'Colombia')
+pred=kmeans.predict([col])
+
+print(c_names)
+print(kmeans.cluster_centers_)
+print(kmodel)
+print(col)
+print(kmodel[kmeans.labels_==pred])
