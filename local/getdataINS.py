@@ -4,7 +4,7 @@ import io
 import requests
 import json
 
-FILE='data.json'
+FILE='local/data.json'
 
 def get_data(local=False):
     if local:
@@ -19,7 +19,8 @@ def get_data(local=False):
 
     return data
 
-data=get_data(local=True)
+data=get_data(local=False)
 dataframe=data['data'][2]
 dataframe=pd.DataFrame(np.array(dataframe[1:]),columns=dataframe[0])
+dataframe.to_csv('local/datos_ins.csv')
 print(dataframe)
