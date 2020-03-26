@@ -5,6 +5,7 @@ import requests
 import json
 
 FILE='local/data.json'
+PATH='local/data/'
 
 def get_data(local=False):
     if local:
@@ -22,5 +23,5 @@ def get_data(local=False):
 data=get_data(local=False)
 dataframe=data['data'][2]
 dataframe=pd.DataFrame(np.array(dataframe[1:]),columns=dataframe[0])
-dataframe.to_csv('local/datos_ins.csv')
+dataframe.to_csv(PATH+'ins.csv')
 print(dataframe)

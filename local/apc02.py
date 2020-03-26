@@ -12,7 +12,7 @@ K=4
 
 def get_data(local=True):
     def get_online_data():
-        jhu_url="https://data.humdata.org/hxlproxy/api/data-preview.csv?url=https%3A%2F%2Fraw.githubusercontent.com%2FCSSEGISandData%2FCOVID-19%2Fmaster%2Fcsse_covid_19_data%2Fcsse_covid_19_time_series%2Ftime_series_19-covid-Confirmed.csv&filename=time_series_2019-ncov-Confirmed.csv"
+        jhu_url="https://data.humdata.org/hxlproxy/api/data-preview.csv?url=https%3A%2F%2Fraw.githubusercontent.com%2FCSSEGISandData%2FCOVID-19%2Fmaster%2Fcsse_covid_19_data%2Fcsse_covid_19_time_series%2Ftime_series_covid19_confirmed_global.csv&filename=time_series_covid19_confirmed_global.csv"
         rcontent=requests.get(jhu_url).content
         data=pd.read_csv(io.StringIO(rcontent.decode('utf-8')))
         data=data.drop(['Province/State','Lat', 'Long'], axis=1)
